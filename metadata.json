@@ -1,0 +1,5 @@
+{
+  "name": "ViraTrace - Privacy-Preserving Contact Tracing",
+  "description": "A secure, anonymous contact tracing platform using Private Set Intersection (PSI) and spatiotemporal hashing to protect user privacy while notifying of potential exposure.",
+  "requestFramePermissions": ["geolocation"]
+}
